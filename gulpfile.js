@@ -10,7 +10,7 @@ const {
 const rename = require("gulp-rename");
 
 // WordPress theme name
-const themeName = "WordPressTheme";
+const themeName = "codeups";
 
 // 読み込み先（階層が間違えていると動かないので注意）
 const srcPath = {
